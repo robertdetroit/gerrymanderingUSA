@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.split {
+  height: 100%;
+  width: 40%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 4%;
+  padding-right: 4%;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+}
+
+#info {
+    padding: 3%;
+    border-radius: 25px;
+    background-color: azure;
+}
+
+.childState {
+    padding: 1%;
+}
+.card {
+    padding: 2%;
+    border-radius: 25px;
+    background-color: bisque;
+}
+
+#billNumb {
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+}
+

@@ -1,0 +1,194 @@
+[
+ {
+   "state": "AK",
+   "n": 4
+ },
+ {
+   "state": "AL",
+   "n": 2
+ },
+ {
+   "state": "AR",
+   "n": 3
+ },
+ {
+   "state": "AZ",
+   "n": 4
+ },
+ {
+   "state": "CA",
+   "n": 12
+ },
+ {
+   "state": "CO",
+   "n": 1
+ },
+ {
+   "state": "CT",
+   "n": 8
+ },
+ {
+   "state": "DE",
+   "n": 1
+ },
+ {
+   "state": "FL",
+   "n": 4
+ },
+ {
+   "state": "GA",
+   "n": 8
+ },
+ {
+   "state": "HI",
+   "n": 4
+ },
+ {
+   "state": "IA",
+   "n": 9
+ },
+ {
+   "state": "ID",
+   "n": 4
+ },
+ {
+   "state": "IL",
+   "n": 33
+ },
+ {
+   "state": "IN",
+   "n": 8
+ },
+ {
+   "state": "KS",
+   "n": 1
+ },
+ {
+   "state": "KY",
+   "n": 8
+ },
+ {
+   "state": "LA",
+   "n": 2
+ },
+ {
+   "state": "MA",
+   "n": 9
+ },
+ {
+   "state": "MD",
+   "n": 11
+ },
+ {
+   "state": "MI",
+   "n": 2
+ },
+ {
+   "state": "MN",
+   "n": 20
+ },
+ {
+   "state": "MO",
+   "n": 14
+ },
+ {
+   "state": "MS",
+   "n": 51
+ },
+ {
+   "state": "MT",
+   "n": 3
+ },
+ {
+   "state": "NC",
+   "n": 15
+ },
+ {
+   "state": "ND",
+   "n": 2
+ },
+ {
+   "state": "NE",
+   "n": 10
+ },
+ {
+   "state": "NH",
+   "n": 4
+ },
+ {
+   "state": "NJ",
+   "n": 14
+ },
+ {
+   "state": "NM",
+   "n": 7
+ },
+ {
+   "state": "NV",
+   "n": 1
+ },
+ {
+   "state": "NY",
+   "n": 7
+ },
+ {
+   "state": "OH",
+   "n": 1
+ },
+ {
+   "state": "OK",
+   "n": 2
+ },
+ {
+   "state": "OR",
+   "n": 4
+ },
+ {
+   "state": "PA",
+   "n": 6
+ },
+ {
+   "state": "RI",
+   "n": 4
+ },
+ {
+   "state": "SC",
+   "n": 7
+ },
+ {
+   "state": "SD",
+   "n": 2
+ },
+ {
+   "state": "TN",
+   "n": 24
+ },
+ {
+   "state": "TX",
+   "n": 22
+ },
+ {
+   "state": "US",
+   "n": 13
+ },
+ {
+   "state": "UT",
+   "n": 5
+ },
+ {
+   "state": "VA",
+   "n": 29
+ },
+ {
+   "state": "WA",
+   "n": 13
+ },
+ {
+   "state": "WI",
+   "n": 4
+ },
+ {
+   "state": "WV",
+   "n": 7
+ }
+]
