@@ -233,7 +233,6 @@ $(document).ready(function() {
             for(var i in data) {
                 state_porp.push(data[i]);
             }
-            //alert("A work in progress!");
             jQuery('#vmap').vectorMap('set', 'colors', {
                 ak: colorGetter("ak"),
                 al: colorGetter("al"),
